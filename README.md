@@ -7,7 +7,6 @@ I'm a Full-Stack developer currently focusing on Ruby on Rails and ReactJS.
 
 &nbsp;
 ## 💾 Technologies
----
 
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat-square&logo=ruby-on-rails&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
