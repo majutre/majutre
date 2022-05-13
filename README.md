@@ -3,7 +3,7 @@
 I'm a Full-Stack developer currently focusing on Ruby on Rails and ReactJS.
 
 <!-- [![Medium Badge](https://img.shields.io/badge/-@majutrevisan-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@majutrevisan/)](https://medium.com/@majutrevisan) -->
-[![LinkedIn Badge](https://img.shields.io/badge/mariajuliatrevisan-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mariajuliatrevisan/)](https://www.linkedin.com/in/mariajuliatrevisan/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mariajuliatrevisan/)](https://www.linkedin.com/in/mariajuliatrevisan/)
 
 &nbsp;
 ## 💾 Technologies
