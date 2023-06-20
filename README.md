@@ -30,6 +30,6 @@ I'm a Full-Stack developer currently focusing on Ruby on Rails and ReactJS.
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-![Top Langs](https://github-readme-stats-majutre.vercel.app/api/top-langs/?username=majutre&layout=compact)
+![Top Langs](https://github-readme-stats-majutre.vercel.app/api/top-langs/?username=majutre&layout=compact&langs_count=8)
 
 
